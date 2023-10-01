@@ -1,7 +1,7 @@
 name: data_structure
 description: Data structure collections like Stack, Queue
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Jeeva111/dart-data-structure.git
 
 environment:
   sdk: ^3.1.2
